@@ -5,7 +5,7 @@
   "main": "",
   "dependencies": {},
   "devDependencies": {
-    "das-build": "0.0.2",
+    "das-build": "*",
     "yargs": "^5.0.0"
   },
   "scripts": {
